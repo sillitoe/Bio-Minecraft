@@ -1,6 +1,7 @@
 
-= BioMinecraft =
+BioMinecraft
+============
 
-Bringing Minecraft to Molecular Biology.
+Exploring Cell Biology in Minecraft.
 
 
